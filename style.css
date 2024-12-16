@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.first_section{
+    background-image: url(./y1y90NN.jpg);
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+.text_box{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+.heading{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 900;
+    background-color: rgba(16, 13, 13, 0.692);
+    padding: 20px;
+    letter-spacing: 8px;
+}
+.second_section{
+    width: auto;
+    background-color: rgba(10, 6, 6, 0.692);
+}
+.second_div p{
+    font-family:sans-serif;
+    letter-spacing: 1.8px;
+    color: rgb(250, 248, 248);
+    text-align: justify;
+}
+.second_div{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+ .second_div h1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-decoration-line:underline;
+    text-shadow: 2px 2px 2px  black;
+}
+.image2 p{
+    text-align: center;
+    margin: 15%;
+    position: absolute;
+    color: rgb(197, 194, 194);
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    letter-spacing: 1.5px;
+    line-height: 20px;
+    background-color: rgba(35, 34, 34, 0.741);
+}
+.image2{
+    background-image: url(./image2.webp);
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+}
+.third_div{
+    background-color: grey;
+    width: 100%;
+    box-sizing: border-box;
+}
+.third_section{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    text-align: center;
+    text-decoration-style: wavy;
+    margin:auto;
+    padding-top: 20px;
+}
+.third_div p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1.5px;
+    padding: 5%;
+    text-align:justify;
+
+}
+.fourth_section{
+    width: 100%;
+    background-image: url(./image3.webp);
+    background-position: center;
+    position:absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    background-attachment: fixed;
+}
+.fourth_section h1{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.200);
+    font-size: 30px;
+    font-weight: 900;
+}
+.fourth_section p{
+    padding:  20px 10% 10% 10%;
+    background-color: rgba(128, 128, 128, 0.379);
+    width: 100%;
+    margin: auto;
+
+}
